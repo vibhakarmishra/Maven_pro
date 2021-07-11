@@ -13,8 +13,8 @@ h1   {color: blue;}
 <h3> Docker hub is being used as artifactory repository</h3>
 <p>  You can use lots of other tools as well </p>
 
-  <h2>London</h2>
-  <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
-  <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+  <h2>Delhi</h2>
+  <p>Delhi is the capital city of India. It is the most populous city in the India, with a metropolitan area of over 130 million inhabitants.</p>
+  <p>Standing on the River Yamuna, Delhi has been a major settlement for two millennia.</p>
 </body>
 </html>
