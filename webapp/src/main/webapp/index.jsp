@@ -1,4 +1,9 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Glad to see you here </h2>
-<h2> Deploying on server using ansible playbook </h2>
-<h3>Image is pulled from hub</h3>
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+<h1> Hello, Welcome to DevOps Project !! </h1>
+<h2> This is a sample for CI/CD Job using devops tools </h2>
+<h2> Tools used here are Jenkins/Docker/Ansible/Maven/Kubernetes</h2>
+<h3> Docker hub is being used as artifactory repository</h3>
+</body>
+</html>
